@@ -44,7 +44,7 @@ var init = function() {
 
   $('#button_7304b').on('click', function() {
     //start parameter initiation
-
+    document.getElementById("p").innerText = "klappt";
     //end parameter initiation
     fun();
   })
